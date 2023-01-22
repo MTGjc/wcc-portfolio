@@ -38,9 +38,9 @@ p{
     filter: drop-shadow(-30px 5px 2px #828282);
 }
 
-a.black:hover{
+/* a.black:hover{
     color:red;
-}
+} */
 a:hover{
     color:blue;
 }
